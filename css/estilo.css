@@ -1,6 +1,11 @@
 body {
   margin: 0;
   font-family: 'Sacramento', cursive;
+  background-color: #e5e5f7;
+  background-color: #696991;
+  opacity: 1;
+  background-size: 22px 22px;
+  background-image:  repeating-linear-gradient(to right, #37c5a0, #37c5a0 1.1px, #696991 1.1px, #696991);
 }
 header{
   margin: 0px 0px 0px 0px;
@@ -147,5 +152,6 @@ img {
 }
 
 h4 {
- font-size: large;
+  text-align:center
+  font-size: large;
 }
